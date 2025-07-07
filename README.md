@@ -1,4 +1,4 @@
-# Embedded-Systems-Intro
+# EmbeddedSystems
 Introduction to Embedded Systems with STM32F407 MicroController Unit
 
 
